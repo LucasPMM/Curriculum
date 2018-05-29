@@ -36,10 +36,6 @@ body{
     text-decoration: underline !important;
 }
 
-.imagem{
-	padding: -100% !important;
-}
-
 #github, #linkedin{
 	color: white !important;
  	background-color: transparent !important;
@@ -48,7 +44,7 @@ body{
 
 .progresso {
 	overflow: hidden;
-	height: 20px;
+	height: 10px;
 	background-color: white;
 	border-radius: 4px;
 	-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
@@ -61,4 +57,13 @@ body{
 	color: #fff;
 	text-align: center;
 	background-color: #A12C3E;
+}
+
+i{
+	width: 100%;
+    height: auto;
+}
+
+.hobbies{
+	color: black !important;
 }
